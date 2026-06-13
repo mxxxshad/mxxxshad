@@ -14,7 +14,7 @@ I build end-to-end web applications — from pixel-precise frontends to robust b
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,,expressjs,nestjs,java,python,)](https://skillicons.dev)
 
 **Database**
 
